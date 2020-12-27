@@ -1,3 +1,3 @@
 # arena-gridsome
 
-A demo using Gridsome to render Are.na API data
+A demo using Gridsome and GraphQL to render are.na API data.
